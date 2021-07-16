@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(133, 236, 108) !important;
+}
+
+b {
+  color: rgb(250, 163, 32);
+}
+
+.boldblue {
+  font-weight: bold;
+  color: blue;
+}
+
+.txthover:hover {
+  display: inline;
+  color: white !important;
+  background-color: blue;
+}
+
+.smallsize {
+  font-size: smaller;
+}
+
+.smallestsize {
+  font-size: x-small;
+}
+
+img {
+  height: 150px;
+  width: auto;
+  border: 1px solid orange;
+}
