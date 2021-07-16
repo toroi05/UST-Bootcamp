@@ -1,4 +1,6 @@
 body{
     background-image: url("https://images.pexels.com/photos/7597267/pexels-photo-7597267.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
     background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
